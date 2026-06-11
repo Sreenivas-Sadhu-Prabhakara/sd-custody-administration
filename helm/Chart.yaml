@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-custody-administration
+description: "BIAN Service Domain: Custody Administration (Administer pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Securities"
+  bian/asset-type: "Custody Holding"
+  bian/control-record: "Custody Holding Administrative Plan"
